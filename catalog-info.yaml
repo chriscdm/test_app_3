@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test_app_3
+  annotations:
+    github.com/project-slug: chriscdm/test_app_3
+  description: Example of an app in platform 1 group
+  tags:
+    - java
+spec:
+  type: other
+  lifecycle: experimental
+  group: platform_1
