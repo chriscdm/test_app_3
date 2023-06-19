@@ -8,7 +8,7 @@ metadata:
   tags:
     - java
 spec:
-  type: other
+  type: application
   lifecycle: experimental
   owner: platform_1
   systen: examples
