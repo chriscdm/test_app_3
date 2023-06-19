@@ -8,7 +8,7 @@ metadata:
   tags:
     - java
 spec:
-  type: application
+  type: app
   lifecycle: experimental
   owner: platform_1
   system: examples
