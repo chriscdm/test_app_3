@@ -11,4 +11,4 @@ spec:
   type: application
   lifecycle: experimental
   owner: platform_1
-  systen: examples
+  system: examples
